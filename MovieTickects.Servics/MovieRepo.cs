@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MovieTickets.Data.Models
+namespace MovieTickets.Services
 {
-    public class ApplicationUser
+    public class MovieRepo
     {
     }
 }
