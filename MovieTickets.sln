@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets", "MovieTickets\MovieTickets.csproj", "{9DFF8057-5934-4864-B197-5FECF2CE8E21}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickects.Servics", "MovieTickects.Servics\MovieTickects.Servics.csproj", "{23B91B6F-9A7A-4AE3-AB04-3185234344F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Services", "MovieTickects.Servics\MovieTickets.Services.csproj", "{23B91B6F-9A7A-4AE3-AB04-3185234344F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTicket.Data", "MovieTicket.Data\MovieTicket.Data.csproj", "{528E91D0-3258-4F5F-BE8A-55F54305A63B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTickets.Data", "MovieTicket.Data\MovieTickets.Data.csproj", "{528E91D0-3258-4F5F-BE8A-55F54305A63B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

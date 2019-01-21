@@ -10,8 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MovieTickects.Servics\MovieTickects.Servics.csproj" />
-    <ProjectReference Include="..\MovieTicket.Data\MovieTicket.Data.csproj" />
+    <ProjectReference Include="..\MovieTickects.Servics\MovieTickets.Services.csproj" />
+    <ProjectReference Include="..\MovieTicket.Data\MovieTickets.Data.csproj" />
   </ItemGroup>
 
 </Project>
